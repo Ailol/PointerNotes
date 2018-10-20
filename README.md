@@ -1,4 +1,6 @@
 # PointerNotes
+      address-of (&) and value-at-address (*) 
+
 ## RULE:
 ```
       N = *ptr1 = *ptr2
